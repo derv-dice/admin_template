@@ -13,6 +13,3 @@
 
 - [ ] Middleware
 - [ ] Auth with JWT
-- [ ] 
-
-
