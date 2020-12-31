@@ -13,5 +13,5 @@ run: build
 	@cd bin && ./server
 
 test: build
-	@echo "Запуск сервера в тестовом режиме без логирования"
-	cd bin && ./server -nolog
+	@echo "Запуск сервера в тестовом режиме без логирования в файл"
+	@cd bin && ./server -nolog

@@ -12,10 +12,10 @@ const (
 
 // Расположение шаблонов /templates/...
 const (
-	tmplBase       = "layout/base.html"
-	tmplNavigation = "layout/navigation.html"
+	tmplBase       = "layout/base.gohtml"
+	tmplNavigation = "layout/navigation.gohtml"
 
-	tmplHomePage = "home/page.html"
+	tmplHomePage = "home/page.gohtml"
 )
 
 // tmplRequires - список шаблонов, требуемых для формирования конкретной страницы
